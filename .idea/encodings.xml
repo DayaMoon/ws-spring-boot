@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mtt/airline/Application.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mtt/airline/accessors/FlightAccessor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mtt/airline/accessors/FlightAccessorImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mtt/airline/accessors/RestTemplateErrorHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mtt/airline/converters/Flight2FlightConverter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mtt/airline/dtos/Availability.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mtt/airline/dtos/AvailabilityResult.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mtt/airline/dtos/FarePrice.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mtt/airline/dtos/Flight.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mtt/airline/dtos/FlightDateTime.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mtt/airline/dtos/Price.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mtt/airline/dtos/TicketClass.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mtt/airline/services/FlightService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mtt/airline/services/FlightServiceImpl.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mtt/airline/web/controllers/FlightRestController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/application-DEV.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/application.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/dozer-mapping.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/xsds" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/xsds/flight.xsd" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/mtt/airline/converters/Flight2FlightConverterTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/mtt/airline/services/FlightServiceImplTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/test/resources" charset="UTF-8" />
+  </component>
+</project>
